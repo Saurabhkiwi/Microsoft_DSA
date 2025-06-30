@@ -1,0 +1,4 @@
+1. Is it says that count the nunmber of ways.
+2. There many ways to solve but , you have to tell which give the minmal or maximal output .
+IN SUCH KIND OF QUESTIONS , YOU TEND TO APPLY RECURSION -> WHERE YOU HAVE TO TRY ALL POSSIBLE WAYS
+For example , the climbing staris problem is a dp problem which you can solve by recursion ... but to solve it with spatial optimisation , you can use the for loop and prev1 and prev2 and curr variable and update it with each iteration 
